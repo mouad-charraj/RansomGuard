@@ -1,0 +1,15 @@
+elevate
+psutil
+keyboard
+customtkinter
+yara
+notifypy
+watchdog
+pefile
+pandas
+tqdm
+numpy
+argparse
+pickle
+re
+hashlib
