@@ -1,4 +1,4 @@
-# 🛡️ RansomShield
+# 🛡️ RansomGuard
 
 **RansomShield** is a lightweight and effective anti-ransomware tool designed to detect, alert, and mitigate ransomware activity in real time using a combination of:
 
