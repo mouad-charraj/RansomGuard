@@ -11,7 +11,7 @@ import customtkinter as ctk
 import honeypot.honeymanager as hm
 from ui.settingsui import settings_ui
 
-# Var
+
 app_version = "1.5"
 
 # Other Folder & Honeypot
