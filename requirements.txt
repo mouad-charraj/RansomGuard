@@ -1,15 +1,12 @@
 elevate
 psutil
 keyboard
-customtkinter
+customtkinter==5.2.2
 yara
-notifypy
+notify_py
 watchdog
 pefile
 pandas
 tqdm
 numpy
 argparse
-pickle
-re
-hashlib

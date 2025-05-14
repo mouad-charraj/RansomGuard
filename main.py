@@ -83,10 +83,6 @@ def main_ui():
     app.title(f"RansomGuard v{app_version}")
     app.protocol("WM_DELETE_WINDOW", on_closing)
 
-    # Button Section
-    # Help Button
-    # help_button = ctk.CTkButton(master=app, text="How to Use", command=lambda: help_ui())
-    # help_button.grid(row=0, column=1, padx=20, pady=10)
 
     # Button Toggle for both protection and Yara scan
     protection_button = ctk.CTkButton(master=app, text="Run", command=lambda:settings_ui())
